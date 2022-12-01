@@ -1,0 +1,3 @@
+shellname:REDACT
+username:REDACT
+password:REDACT
